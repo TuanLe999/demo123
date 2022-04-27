@@ -17,6 +17,7 @@ public class GitDemo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Tun chao Tan Tu");
+        System.out.println("Chao lại tuán nhe");
     }
     
 }
